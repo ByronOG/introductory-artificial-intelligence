@@ -15,3 +15,8 @@ Represented a game of sudoku as a CSP by building domains, neighbours, and const
 
 # HW6: Adversial Search
 Implemented minimax algorithms, such as alpha-beta pruning minimax and alpha-beta, depth-limited minimax. 
+
+# HW8: Bayes' Nets and Probabilities
+Implementing functions in a game using Bayes' Nets Theory. 
+Locations on a board have a probability indicating your proximity to the treasure
+These locations are updated using Bayes' Nets Theory when a sensor reading is taken at another locatino on the board.
