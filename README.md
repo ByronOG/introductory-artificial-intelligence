@@ -18,5 +18,7 @@ Implemented minimax algorithms, such as alpha-beta pruning minimax and alpha-bet
 
 # HW8: Bayes' Nets and Probabilities
 Implementing functions in a game using Bayes' Nets Theory. 
+
 Locations on a board have a probability indicating your proximity to the treasure
+
 These locations are updated using Bayes' Nets Theory when a sensor reading is taken at another locatino on the board.
