@@ -2,7 +2,7 @@
 # Name:     informed_search
 # Purpose:  Homework 4 - Implement astar and some heuristics
 #
-# Author(s):
+# Author: Byron O'Gorman
 # ----------------------------------------------------------------------
 """
 A* Algorithm and heuristics implementation

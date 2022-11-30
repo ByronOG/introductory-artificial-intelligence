@@ -2,7 +2,7 @@
 # Name:        homework2
 # Purpose:     Practice writing Python functions
 #
-# Author(s):
+# Author: Byron O'Gorman
 # ----------------------------------------------------------------------
 """
 Implement functions to track Sammy's consumption of carrots.

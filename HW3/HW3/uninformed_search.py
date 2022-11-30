@@ -2,7 +2,7 @@
 # Name:     uninformed_search
 # Purpose:  Homework3 - Implement bfs and ucs graph search algorithms
 #
-# Author(s):
+# Author: Byron O'Gorman
 #
 # ----------------------------------------------------------------------
 """

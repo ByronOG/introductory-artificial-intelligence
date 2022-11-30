@@ -2,7 +2,7 @@
 # Name:     beliefs
 # Purpose:  Homework 8
 #
-# Author(s):
+# Author: Byron O'Gorman
 #
 # ----------------------------------------------------------------------
 """

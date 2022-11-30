@@ -2,7 +2,7 @@
 # Name:     adversarial_search
 # Purpose:  Homework 6 - Implement adversarial search algorithms
 #
-# Author:
+# Author: Byron O'Gorman
 #
 # ----------------------------------------------------------------------
 """

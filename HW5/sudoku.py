@@ -2,7 +2,7 @@
 # Name:     sudoku
 # Purpose:  Homework5
 #
-# Author(s):
+# Author: Byron O'Gorman
 #
 # ----------------------------------------------------------------------
 """
