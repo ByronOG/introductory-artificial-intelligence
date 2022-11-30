@@ -80,10 +80,11 @@ class Belief(object):
         :return: tuple representing the position where we should take
             the next measurement
         """
-        # Enter your code and remove the statement below
-        highest_prob_loc = max(self.open, key=lambda pos: self.current_distribution[pos])
+        # if self.open is empty
         if len(self.open) == 0:
             return max(self.current_distribution, key=self.current_distribution.get)
+
+        highest_prob_loc = max(self.open, key=lambda pos: self.current_distribution[pos])
         return highest_prob_loc if self.current_distribution[highest_prob_loc] > 0 else \
             utils.closest_point(max(self.current_distribution, key=self.current_distribution.get), self.open)
 
