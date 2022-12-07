@@ -23,7 +23,7 @@ Locations on a board have a probability indicating your proximity to the treasur
 
 These locations are updated using Bayes' Nets Theory when a sensor reading is taken at another locatino on the board.
 
-#HW9: Classifiers
+# HW9: Classifiers
 Implemented two classifiers: Multi-Class Perceptron and K Nearest Neighbours
 
 
