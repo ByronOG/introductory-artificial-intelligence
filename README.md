@@ -1,5 +1,5 @@
-# Artificial-Intelligence-Projects
-A collection of Homework projects from my AI class at SJSU (CS 156)
+# introductory-artificial-intelligence
+A collection of projects from my AI class at SJSU (CS 156)
 
 ## HW2: Advanced Functions
 Implemented functions analysing a game state using generator expressions.
